@@ -4,6 +4,7 @@ Technologies used:
 - HTML5
 - CSS3
 
+<div align="center">
 ### Phone
 ![GitHub Logo](/Website_Screenshots/Phone/Galaxy_S9_ScreenShot.jpeg)
 
@@ -12,4 +13,4 @@ Technologies used:
 
 ### Ipad
 ![GitHub Logo](/Website_Screenshots/Ipad/Ipad_ScreenShot-1.jpg)
-
+</div>
