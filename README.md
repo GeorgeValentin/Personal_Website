@@ -6,4 +6,4 @@ Technologies used:
 
 ### PC
 ![GitHub Logo](/Website_Screenshots/PC/Laptop_ScreenShot.png)
-Format: ![Alt Text](Website_Laptop_Image)
+Format: ![Website_Laptop_Image](url)
