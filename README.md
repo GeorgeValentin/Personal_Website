@@ -6,6 +6,7 @@ Technologies used:
 
 <div align="center">
 ### Phone
+  
 <img src="/Website_Screenshots/Phone/Galaxy_S9_ScreenShot.jpeg">
 
 ### PC
