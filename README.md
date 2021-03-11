@@ -4,6 +4,12 @@ Technologies used:
 - HTML5
 - CSS3
 
+### Phone
+![GitHub Logo](/Website_Screenshots/Phone/Galaxy_S9_ScreenShot.png)
+
 ### PC
 ![GitHub Logo](/Website_Screenshots/PC/Laptop_ScreenShot.png)
-Format: ![Website_Laptop_Image](url)
+
+### Ipad
+![GitHub Logo](/Website_Screenshots/Ipad/Ipad_ScreenShot.png)
+
