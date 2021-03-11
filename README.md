@@ -5,11 +5,11 @@ Technologies used:
 - CSS3
 
 ### Phone
-![GitHub Logo](/Website_Screenshots/Phone/Galaxy_S9_ScreenShot.png)
+![GitHub Logo](/Website_Screenshots/Phone/Galaxy_S9_ScreenShot.jpeg)
 
 ### PC
 ![GitHub Logo](/Website_Screenshots/PC/Laptop_ScreenShot.png)
 
 ### Ipad
-![GitHub Logo](/Website_Screenshots/Ipad/Ipad_ScreenShot.png)
+![GitHub Logo](/Website_Screenshots/Ipad/Ipad_ScreenShot.pdf)
 
