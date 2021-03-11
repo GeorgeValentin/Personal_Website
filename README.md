@@ -5,13 +5,14 @@ Technologies used:
 - CSS3
 
 <div align="center">
-### Phone
-  
+
+<h3> Phone </h3>
 <img src="/Website_Screenshots/Phone/Galaxy_S9_ScreenShot.jpeg">
 
-### PC
+<h3> PC </h3>
 <img src="/Website_Screenshots/PC/Laptop_ScreenShot.png">
 
-### Ipad
+<h3> Ipad </h3>
 <img src="/Website_Screenshots/Ipad/Ipad_ScreenShot-1.jpg">
+
 </div>
