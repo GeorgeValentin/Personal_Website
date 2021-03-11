@@ -5,5 +5,5 @@ Technologies used:
 - CSS3
 
 ### PC
-![GitHub Logo](/Website_Screenshots/Laptop_ScreenShot.png)
+![GitHub Logo](/Website_Screenshots/PC/Laptop_ScreenShot.png)
 Format: ![Alt Text](Website_Laptop_Image)
