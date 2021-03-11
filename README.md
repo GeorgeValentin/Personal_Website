@@ -11,5 +11,5 @@ Technologies used:
 ![GitHub Logo](/Website_Screenshots/PC/Laptop_ScreenShot.png)
 
 ### Ipad
-![GitHub Logo](/Website_Screenshots/Ipad/Ipad_ScreenShot.pdf)
+![GitHub Logo](/Website_Screenshots/Ipad/Ipad_ScreenShot-1.jpg)
 
