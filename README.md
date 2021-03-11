@@ -6,11 +6,11 @@ Technologies used:
 
 <div align="center">
 ### Phone
-![GitHub Logo](/Website_Screenshots/Phone/Galaxy_S9_ScreenShot.jpeg)
+<img src="/Website_Screenshots/Phone/Galaxy_S9_ScreenShot.jpeg">
 
 ### PC
-![GitHub Logo](/Website_Screenshots/PC/Laptop_ScreenShot.png)
+<img src="/Website_Screenshots/PC/Laptop_ScreenShot.png">
 
 ### Ipad
-![GitHub Logo](/Website_Screenshots/Ipad/Ipad_ScreenShot-1.jpg)
-
+<img src="/Website_Screenshots/Ipad/Ipad_ScreenShot-1.jpg">
+</div>
